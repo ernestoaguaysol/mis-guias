@@ -1,7 +1,7 @@
 # mis-guias
-Guía personal de autoayuda que puede ser distribuida y modificada para su uso, cualquier aporte o acualización es bienvenido.
+## Guía personal de autoayuda que puede ser distribuida y modificada para su uso, cualquier aporte o acualización es bienvenido.
 
-Ernesto Aguaysol
+### Ernesto Aguaysol
 
 Las solicitudes de extracción (Pull Requests) son el corazón de la colaboración en GitHub.
 
@@ -11,3 +11,4 @@ Las solicitudes de extracción (Pull Requests) son el corazón de la colaboraci�
 **Escribiendo en GitHub:**
 
 >Acerca de escritura y el formateo en GitHub https://help.github.com/articles/about-writing-and-formatting-on-github/
+>Escritura básica y la sintaxis de formato https://help.github.com/articles/basic-writing-and-formatting-syntax/

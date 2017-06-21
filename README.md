@@ -10,5 +10,9 @@ Las solicitudes de extracción (Pull Requests) son el corazón de la colaboraci�
 
 **Escribiendo en GitHub:**
 
->Acerca de escritura y el formateo en GitHub https://help.github.com/articles/about-writing-and-formatting-on-github/
->Escritura básica y la sintaxis de formato https://help.github.com/articles/basic-writing-and-formatting-syntax/
+1. Acerca de escritura y el formateo en GitHub 
+    * https://help.github.com/articles/about-writing-and-formatting-on-github/
+2. Escritura básica y la sintaxis de formato 
+    * https://help.github.com/articles/basic-writing-and-formatting-syntax/
+3. Paginas en GitHub:
+    * https://pages.github.com/

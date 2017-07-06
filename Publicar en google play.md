@@ -62,6 +62,25 @@ Guardamos y nos va a pedir donde lo vamos a guardar, luego aceptamos todo y lo v
 * Una vez creada la cuenta vamos a **Crear una Aplicación**, lugo ponemos el titulo y aceptamos.
 
 * Lo siguiente es rellenar los campos de **Ficha de Play Store**, para una rapida publicación solo rellenar los campos obligatorios. Tener en cuenta las medidas de las imagenes.  
+> Nota: "Es fundamental colocar una url en **politicas de privacidad**"  
 > Para llenar la **Calificación de contenido** primero debenos subir el apk.  
 
 * Para subir apk vamos a **versiones de la app** y luego a **ADMINISTRAR VERSIÓN DE PRODUCCIÓN**, luego creamos la versión y subimos el apk desde la biblioteca donde lo tenemos guardado.
+
+Luego de rellenar los campos de **Novedades de este lanzamiento** de damos a **guardar** y luego **revisar**.
+
+* Antes de **Revisión y lanzamiento** tenemos que ir a **Calificación de contenido**, llenamos y respondemos todos los campos necesarios.  
+Luego de contestar todo aceptamos y solicitamos la calificación.
+
+* Ahora vamos a **Precios y distribución** contestamos los campos requeridos, como consejo hacer la app gratis, que sea para todo el mundo y no olvidar de marcar los dos últimos campos que son obligatorios.
+
+### Listos para Publicar  
+* Para publicar tiene que estar todas las palomitas en verde, y tiene que aparecer **Listos para publicar** como la siguiente imagen:  
+![](https://github.com/ernestoaguaysol/mis-guias/blob/master/Imagenes/Calculadora/calculadora-Captura%20de%20pantalla%20(34).png)
+
+> Si no llegara a salir ese mensaje en la parte donde dice **Listos para publicar** aparecerá otro recuadro con la frase **¿Por que no puedo publicar?** y nos fijamos el motivo.
+
+* Guardamos borrador y hacemos click en **Listos para publicar**, luego a **administrar lanzamiento**. luego vamos a **administrar versión de producción**, **Editar Versión**, **Revisar**, y por último **INICIAR LANZAMIENTO DE VERSIÓN EN PRODUCCIÓN** y **Confirmar**.  Ahora quedará un recuadro con la publicación pendiente... Ahora todo queda en manos de Google para que nos confirme la publicación.  
+
+> A veces se demoran mucho a veces no, todo depende de San Google...  
+Buena Suerte!!!

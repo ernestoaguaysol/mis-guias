@@ -39,4 +39,26 @@ luego provamos que se vea el icono.
 
 le damos click en **Distribute** y luego en **Ad Hoc** para alojarlo localmente.
 
-6- El siguiente paso previo es hacer una firma
+6- El siguiente paso es generar un sertificado o utilizar uno existente **ES MUY IMPORTANTE GUARDAR EL PASSWORD EN UN LUGAR A SALVO**.  
+Si creamos un nuevo certificado hay que rellenar todos los campos por ejemplo:
+![](https://github.com/ernestoaguaysol/mis-guias/blob/master/Imagenes/Calculadora/calculadora-Captura%20de%20pantalla%20(33).png)
+
+Guardamos y nos va a pedir donde lo vamos a guardar, luego aceptamos todo y lo va a generar.
+
+## Cuenta en Goople Play Developer
+
+* Vamos al siguiente enlace https://play.google.com/apps/publish/ y seguimos todos los pasos
+
+> si no te direcciona el enlace "Goooglea" :)
+
+> La cuenta necesitaremos nuestra tarjeta de crédito, en google play cuesta $30 dolares de por vida a comparación de Apple que cuesta $99 dolares.
+
+
+## Preparetivos antes del lanzamiento
+
+* A tener en cuenta:  
+Las imagenes alojadas no pueden contener derechos de autor, por ejemplo nunca debes poner una imagen de un famoso o escudo de futbol que esté con derechos de autor aunque hay casos que te permita, es mejor evitarlos.  
+
+* Una vez creada la cuenta vamos a **Crear una Aplicación**, lugo ponemos el titulo y aceptamos.
+
+* Lo siguiente es rellenar los campos, para una rapida publicación solo rellenar los campos obligatorios. Las 

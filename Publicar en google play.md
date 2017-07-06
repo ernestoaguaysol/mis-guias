@@ -25,6 +25,10 @@ luego provamos que se vea el icono.
 
 3- Doble click en **properties** y en la pestaña **Android Manifest** cambiamos las siguientes propiedades:
 
+![](https://github.com/ernestoaguaysol/mis-guias/blob/master/Imagenes/Calculadora/calculadora-Captura%20de%20pantalla%20(30).png)
 
+> Nota: el nombre del paquete es recomendable seguir eo estandar com.nombre.nombreapp
 
+4- en la pestaña **Android Options** deshabilitar las siguientes propiedades:
 
+![](https://github.com/ernestoaguaysol/mis-guias/blob/master/Imagenes/Calculadora/calculadora-Captura%20de%20pantalla%20(31).png)

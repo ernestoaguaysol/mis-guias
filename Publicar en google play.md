@@ -82,5 +82,7 @@ Luego de contestar todo aceptamos y solicitamos la calificación.
 
 * Guardamos borrador y hacemos click en **Listos para publicar**, luego a **administrar lanzamiento**. luego vamos a **administrar versión de producción**, **Editar Versión**, **Revisar**, y por último **INICIAR LANZAMIENTO DE VERSIÓN EN PRODUCCIÓN** y **Confirmar**.  Ahora quedará un recuadro con la publicación pendiente... Ahora todo queda en manos de Google para que nos confirme la publicación.  
 
-> A veces se demoran mucho a veces no, todo depende de San Google...  
+![](https://github.com/ernestoaguaysol/mis-guias/blob/master/Imagenes/Calculadora/calculadora-Captura%20de%20pantalla%20(35).png)
+
+> A veces se demoran mucho, a veces no. Todo depende de San Google...  
 Buena Suerte!!!

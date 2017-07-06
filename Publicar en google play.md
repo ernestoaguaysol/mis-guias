@@ -32,3 +32,11 @@ luego provamos que se vea el icono.
 4- en la pestaña **Android Options** deshabilitar las siguientes propiedades:
 
 ![](https://github.com/ernestoaguaysol/mis-guias/blob/master/Imagenes/Calculadora/calculadora-Captura%20de%20pantalla%20(31).png)
+
+5- Ahora hacemos click con el segundo botón en el proyecto **Android** y hacemos click en **Archive** y si todo va bien nos debe generar el paquete y nos mustra una imagen como ésta:
+
+![](https://github.com/ernestoaguaysol/mis-guias/blob/master/Imagenes/Calculadora/calculadora-Captura%20de%20pantalla%20(32).png)
+
+le damos click en **Distribute** y luego en **Ad Hoc** para alojarlo localmente.
+
+6- El siguiente paso previo es hacer una firma

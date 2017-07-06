@@ -61,4 +61,7 @@ Las imagenes alojadas no pueden contener derechos de autor, por ejemplo nunca de
 
 * Una vez creada la cuenta vamos a **Crear una Aplicación**, lugo ponemos el titulo y aceptamos.
 
-* Lo siguiente es rellenar los campos, para una rapida publicación solo rellenar los campos obligatorios. Las 
+* Lo siguiente es rellenar los campos, para una rapida publicación solo rellenar los campos obligatorios. Tener en cuenta las medidas de las imagenes.  
+Para llenar la calificación de contenido primero debenos subir el apk.  
+
+* Para subir apk vamos a **versiones de la app** y luego a **ADMINISTRAR VERSIÓN DE PRODUCCIÓN**, luego creamos la versión y subimos el apk desde la biblioteca donde lo tenemos guardado.

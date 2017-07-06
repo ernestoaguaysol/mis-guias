@@ -54,14 +54,14 @@ Guardamos y nos va a pedir donde lo vamos a guardar, luego aceptamos todo y lo v
 > La cuenta necesitaremos nuestra tarjeta de crédito, en google play cuesta $30 dolares de por vida a comparación de Apple que cuesta $99 dolares.
 
 
-## Preparetivos antes del lanzamiento
+## Preparetivos para el lanzamiento de la App
 
-* A tener en cuenta:  
-Las imagenes alojadas no pueden contener derechos de autor, por ejemplo nunca debes poner una imagen de un famoso o escudo de futbol que esté con derechos de autor aunque hay casos que te permita, es mejor evitarlos.  
+>A tener en cuenta:  
+*"Las imagenes alojadas no pueden contener derechos de autor, por ejemplo nunca debes poner una imagen de un famoso o escudo de futbol que esté con derechos de autor aunque hay casos que te permita, es mejor evitarlos"*.  
 
 * Una vez creada la cuenta vamos a **Crear una Aplicación**, lugo ponemos el titulo y aceptamos.
 
-* Lo siguiente es rellenar los campos, para una rapida publicación solo rellenar los campos obligatorios. Tener en cuenta las medidas de las imagenes.  
-Para llenar la calificación de contenido primero debenos subir el apk.  
+* Lo siguiente es rellenar los campos de **Ficha de Play Store**, para una rapida publicación solo rellenar los campos obligatorios. Tener en cuenta las medidas de las imagenes.  
+> Para llenar la **Calificación de contenido** primero debenos subir el apk.  
 
 * Para subir apk vamos a **versiones de la app** y luego a **ADMINISTRAR VERSIÓN DE PRODUCCIÓN**, luego creamos la versión y subimos el apk desde la biblioteca donde lo tenemos guardado.

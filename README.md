@@ -5,8 +5,8 @@
 
 Las solicitudes de extracción (Pull Requests) son el corazón de la colaboración en GitHub.
 
-**Hola Mundo en GitHub:** 
->https://guides.github.com/activities/hello-world/
+**Hola Mundo en GitHub:**   
+![https://guides.github.com/activities/hello-world]()
 
 **Escribiendo en GitHub:**
 
